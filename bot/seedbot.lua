@@ -208,6 +208,18 @@ function create_config( )
   -- A simple config with basic plugins and ourselves as privileged user
   config = {
     enabled_plugins = {
+    "addplug",
+    "dler",
+    "getplug",
+    "plugins",
+    "music",
+    "mute_mod_super",
+    "rmsg",
+    "saveplug",
+    "supergroup",
+    "time",
+    "tophoto",
+    "tosticker",
     "onservice",
     "inrealm",
     "ingroup",
